@@ -5,9 +5,12 @@ Gesture Volume Control is a computer vision project that lets you control your s
 The project uses OpenCV for video processing, MediaPipe for hand landmark detection, and Pycaw to interface with the system's audio control (on Windows). It's a practical demonstration of how AI and computer vision can be applied to create touch-free, intuitive user interfaces.
 
 💾 REQUIREMENTS
+
 opencv-python
 mediapipe
 comtypes
 numpy
 pycaw
 pip install -r requirements.txt
+
+
