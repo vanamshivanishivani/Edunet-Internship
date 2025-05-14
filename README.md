@@ -7,10 +7,15 @@ The project uses OpenCV for video processing, MediaPipe for hand landmark detect
 💾 REQUIREMENTS
 
 opencv-python
+
 mediapipe
+
 comtypes
+
 numpy
+
 pycaw
+
 pip install -r requirements.txt
 
 
